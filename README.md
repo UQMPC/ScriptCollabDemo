@@ -1,2 +1,2 @@
 # ScriptCollabDemo
-New to github or our repo? Try submitting a pull request, creating a new issue here.
+New to github or our repo? Try submitting a pull request or creating a new issue here.
